@@ -1,6 +1,8 @@
-body {
+body,html {
  background-image: url("csontiG.jpg");
+ height: 100%;
  background-repeat: no-repeat;
- background-size: cover;
  background-position: center;
+ background-size: cover;
 }
+
